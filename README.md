@@ -5,7 +5,7 @@
 To design the schematic and PCB layout diagram of an fridge door opening alarm circuit using Eagle software.
 
 ## EQUIPMENT REQUIRED:
-●	Hardware: Personal Computer (PC)<br>
+●	Hardware: Personal Computer (PC)<br>  
 ●	Software: Eagle <br>
 
 ## PROCEDURE:
